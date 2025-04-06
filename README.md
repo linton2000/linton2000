@@ -8,4 +8,4 @@
   - [Autonomous Soil Moisture Mapping](https://github.com/linton2000/Autonomous-Soil-Moisture-Mapping): Various PySpark & Matlab scripts containing physical & ML models for my engineering research project.
   - [PsychBase App](https://github.com/Sparrow-HealthTech/ios-app): An iOS app I built using SwiftUI that contains therapeutic self-help activities.
   - [PsychBase Dashboard](https://github.com/Sparrow-HealthTech/dashboard-frontend): A web dashboard built using TypeScript React & NextJS.
-  - [HPC Training Book](https://github.com/MonashDeepNeuron/HPC-Training): A markdown site I contributed to, containing [Monash DeepNeuron](https://deepneuron.org/)'s High Performance Computing training material.
+  - [HPC Training Book](https://github.com/MonashDeepNeuron/HPC-Training): A markdown book I contributed to, containing [Monash DeepNeuron](https://deepneuron.org/)'s High Performance Computing training material.
