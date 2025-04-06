@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- I recently graduated from a Software Engineering degree at Monash University.
-- I'm currently working in the Department of Defence as a Django developer.
+- I recently graduated with a Bachelor's degree in Software Engineering from Monash University.
+- I'm currently working in the Australian Department of Defence.
 - My projects:
   - [Organize](https://github.com/linton2000/Organize): A simple WIP productivity application built with TypeScript React & Django REST framework.
   - [AutoShowroom](https://github.com/linton2000/AutoShowroom_Console_App): A Java-based console application that simulates a vehicle showroom.
